@@ -8,8 +8,9 @@
 
 ## 🌱 I’m currently learning ...
 - How to recover from burnout
-- How to lead a team....while recovering from burnout
-- How to rewrite a very complicated novel
+- How to measure developer relations and community impact
+- How to write short fiction
+- How to play classical guitar
 
 ## 💞️ I’m looking to collaborate on ...
 - Talks about DevRel management strategies 
