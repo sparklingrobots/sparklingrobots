@@ -16,6 +16,10 @@
 - Table-top gaming stuff, especially in marginalized communities 
 - Novels (seriously) -- writing them together, trading beta reads, cheering each other on, all of the above
 
+## Work Stuff
+- Currently Director of Developer Relations & Community at PagerDuty
+- Previously at Automattic, Pantheon, Universal Music Group, and many others
+
 ## 📫 How to reach me ...
 - Mastodon: https://indieweb.social/@sparklingrobots
 - [Tara-King.com](https://www.tara-king.com)
