@@ -3,7 +3,7 @@
 ## 👀 I’m interested in ... 
 - Writing (fiction, poetry)
 - Developer Relations 
-- Table-top games (Check out [MañanaCon](https://www.mananacon.com)
+- Table-top games (Check out [MañanaCon](https://www.mananacon.com))
 - Bicycles
 
 ## 🌱 I’m currently learning ...
